@@ -22,6 +22,7 @@
   ],
   "scripts": {
     "build": "rollup -c",
-    "dev": "rollup -c -w"
+    "dev": "rollup -c -w",
+    "push": "np --no-2fa"
   }
 }
