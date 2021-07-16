@@ -6,7 +6,7 @@ List of IFRC National Societies.
 
 Each entry in the array contains the following fields:
 
-```json
+```js
 {
     //ISO 3166-1 alpha-2 code of associated country
     "code": "al",
