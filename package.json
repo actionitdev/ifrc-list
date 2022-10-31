@@ -1,6 +1,6 @@
 {
   "name": "ifrc-list",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "List of IFRC National Societies in multiple consumable formats.",
   "main": "dist/cjs/main.js",
   "module": "dist/esm/main.js",
