@@ -46,7 +46,7 @@ var data = [
 	},
 	{
 		code: "ar",
-		flag: "🇦🇶",
+		flag: "🇦🇷",
 		name: "Argentina: Argentine Red Cross",
 		ns: "Argentine Red Cross",
 		country: "Argentina"
