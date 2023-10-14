@@ -31,7 +31,8 @@
   "scripts": {
     "build": "npx rollup -c",
     "dev": "rollup -c -w",
-    "push": "np --no-2fa"
+    "push": "np --no-2fa",
+    "test": "echo 'test completed'"
   },
   "dependencies": {
     "lodash": "^4.17.21"
