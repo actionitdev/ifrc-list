@@ -7,6 +7,9 @@
   "repository": {
     "url": "https://github.com/actionitdev/ifrc-list"
   },
+  "engines": {
+    "node": "16"
+  },
   "keywords": [
     "IFRC"
   ],
