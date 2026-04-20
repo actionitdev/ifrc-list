@@ -1078,21 +1078,21 @@ var data = [
 		code: "mk",
 		iso_alpha2: "MK",
 		iso_alpha3: "MKD",
-		name: "Macedonia: Democratic Republic of the Congo (Red Cross of the)",
-		ns: "Democratic Republic of the Congo (Red Cross of the)",
+		name: "Macedonia: North Macedonia (Red Cross of the Republic of )",
+		ns: "North Macedonia (Red Cross of the Republic of )",
 		country: "Macedonia",
 		location: {
 			lat: 41.6086,
 			long: 21.745275
 		},
 		flag: "🇲🇰",
-		currency: "CDF",
+		currency: "MKD",
 		ifrc_region: "EU",
 		names: {
 			en: "Red Cross of North Macedonia",
-			es: "Cruz Roja de la República Democrática del Congo",
-			ar: "الصليب الأحمر في جمهورية الكونغو الديمقراطية",
-			fr: "Croix-Rouge de la République démocratique du Congo"
+			es: "Cruz Roja de la República de Macedonia del Norte",
+			ar: "الصليب الأحمر لجمهورية شمال مقدونيا",
+			fr: "Croix-Rouge de la République de Macédoine du Nord"
 		}
 	},
 	{
@@ -2674,21 +2674,21 @@ var data = [
 		code: "cd",
 		iso_alpha2: "CD",
 		iso_alpha3: "COD",
-		name: "Macedonia:North Macedonia (Red Cross of the Republic of )",
-		ns: "North Macedonia (Red Cross of the Republic of )",
+		name: "Democratic Republic of the Congo: Democratic Republic of the Congo (Red Cross of the)",
+		ns: "Democratic Republic of the Congo (Red Cross of the)",
 		country: "Democratic Republic of the Congo",
 		location: {
 			lat: -4.0383,
 			long: 21.758664
 		},
 		flag: "🇨🇩",
-		currency: "MKD",
+		currency: "CDF",
 		ifrc_region: "AF",
 		names: {
-			en: "Red Cross of North Macedonia",
-			es: "Cruz Roja de la República de Macedonia del Norte",
-			ar: "الصليب الأحمر لجمهورية شمال مقدونيا",
-			fr: "Croix-Rouge de la République de Macédoine du Nord"
+			en: "Red Cross of the Democratic Republic of the Congo",
+			es: "Cruz Roja de la República Democrática del Congo",
+			ar: "الصليب الأحمر في جمهورية الكونغو الديمقراطية",
+			fr: "Croix-Rouge de la République démocratique du Congo"
 		}
 	},
 	{
