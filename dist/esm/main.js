@@ -2502,9 +2502,9 @@ var data = [
 		code: "mm",
 		iso_alpha2: "MM",
 		iso_alpha3: "MMR",
-		name: "Burma: Myanmar Red Cross Society",
+		name: "Myanmar: Myanmar Red Cross Society",
 		ns: "Myanmar Red Cross Society",
-		country: "Burma",
+		country: "Myanmar",
 		location: {
 			lat: 21.914,
 			long: 95.956223
